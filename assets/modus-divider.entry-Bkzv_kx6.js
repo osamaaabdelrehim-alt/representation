@@ -1,0 +1,1 @@
+import{r as i,h as s}from"./index-BA1BzD6t.js";const d=".modus-divider{border-left:1px solid var(--modus-toolbar-divider-bg, #252a2e);height:32px;margin-left:3px;margin-right:3px;opacity:0.25}",e=d,o=class{constructor(r){i(this,r)}render(){return s("div",{key:"fff79c4a9eb431f2178f2b29f5bdb34f48109b27",class:"modus-divider"})}};o.style=e;export{o as modus_divider};
