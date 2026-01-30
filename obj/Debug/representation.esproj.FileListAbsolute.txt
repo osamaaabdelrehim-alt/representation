@@ -1,0 +1,2 @@
+C:\Users\10638179\source\repos\Representation\Representation\obj\Debug\representation.esproj.CoreCompileInputs.cache
+C:\Data\data\API\Trimble Applications\TC Extension\Representation\Representation\obj\Debug\representation.esproj.CoreCompileInputs.cache
